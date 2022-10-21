@@ -1,2 +1,2 @@
-# DestinySpace
-space game in chain
+# Destiny Space
+
