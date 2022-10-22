@@ -15,6 +15,8 @@ class Game extends React.Component{
         };
     }
     componentDidMount() {
+        // cambia el titulo de la web
+        document.title = "Destiny Space"
         //crea en el estado el canvas de la nave
         this.setState({
             canvasShip:this.canvasShip,

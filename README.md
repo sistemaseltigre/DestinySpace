@@ -15,6 +15,12 @@
 - movimiento con SetIntervals agregado
 - se agregaron variables por defecto en el archivo GameSystem(size de nave, velocidad minima)
 
+#### **V0.1.3**
+- se creo deteccion de tecla para disparar
+- ahora puede disparar y se creo para un array con las coordenadas actualizadas de los disparos para detectar colisiones con enemigos
+- se agregaron variables para ajustar la velocidad de los disparos y la cadecia de disparo
+- se empezo el proceso para la creacion de enemigos(en proceso)
+
 ## Authors
 **Team Name:**
 - Jesus Silva [Twitter](https://twitter.com/elchuo160) || [Instagram](https://www.instagram.com/elchuo160/)
